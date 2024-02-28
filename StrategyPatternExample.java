@@ -63,7 +63,7 @@ class TodoListSorter {
     }
 }
 
-class StrategyPatternExample {
+public class StrategyPatternExample {
     public static void main(String[] args) {
         // Create tasks
         Task task1 = new Task("Complete assignment", 2);
